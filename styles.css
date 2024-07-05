@@ -105,7 +105,9 @@ nav ul li a {
     }
 
     .logo p{
-        width: 3vh;
+        width: 0vh;
+        font-size: 1vh;
+        font-weight: normal;
     }
     nav ul{
         /* display: none; */
@@ -113,11 +115,11 @@ nav ul li a {
         margin-left: -60px;
     }
     .navbtn{
-        margin-left: -40px;
-        width: 15vh;
+        margin-left: -160px;
+        width: 9vh;
     }
     .search{
-        margin-right: -9px;
+        margin-right: -10px;
     }
 }
 
@@ -387,7 +389,7 @@ nav ul li a {
 }
 
 .angle-two{
-    margin-left: 128px;
+    margin-left: 94px;
     margin-top: 15px;
 }
 
@@ -415,7 +417,7 @@ nav ul li a {
 }
 
 .angle-three{
-    margin-left: 129px;
+    margin-left: 17.7vh;
     margin-top: 15px;
 }
 
@@ -475,15 +477,15 @@ nav ul li a {
     }
 
     .angle-one{
-        margin-top: -7px;
+        margin-top: -410px;
     }
 
     .angle-two{
-        margin-top: 230px;
+        margin-top: 78px;
         margin-left: 111px;
     }
     .angle-three{
-        margin-top: 233px;
+        margin-top: 415px;
         margin-left: 111px;
     }
 }
